@@ -1,0 +1,21 @@
+body{
+    margin: 3em;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+h1{
+    color: #59656F;
+    font-size: 32px;
+    font-weight: 500;
+    float: left;
+}
+
+nav{
+    float: right;
+}
+
+p{
+    font-size: 20px;
+    background-color: #DDBDD5;
+}
