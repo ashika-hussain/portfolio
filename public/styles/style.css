@@ -1,21 +1,44 @@
-body{
-    margin: 3em;
-    font-family: 'Poppins', sans-serif;
-
+body {
+  margin: 8em;
+  font-family: "Poppins", sans-serif;
+  background-color: #e0e1dd;
 }
 
-h1{
-    color: #59656F;
-    font-size: 32px;
-    font-weight: 500;
-    float: left;
+h1 {
+  color: #0d1b2a;
+  font-size: 2.25em;
+  font-weight: 500;
+  float: left;
 }
 
-nav{
-    float: right;
+nav {
+  float: right;
 }
 
-p{
-    font-size: 20px;
-    background-color: #DDBDD5;
+p {
+  font-size: 1.25em;
+}
+
+.about {
+  margin-right: 4em;
+  margin-top: 1em;
+  
+}
+.img-container{
+    width: max-content;
+    align-items: center;
+}
+
+.profile-img {
+  max-width: 25%;
+  margin-right: 0;
+  padding-right: 0;
+}
+
+.about-description
+{
+    padding-left: 1em;
+    margin-left: 1em;
+    padding-right: 1em;
+    padding-top: 5em;
 }
